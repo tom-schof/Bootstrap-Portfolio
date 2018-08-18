@@ -1,4 +1,4 @@
-#main-title{
+.main-title{
     color: #ffffff;
     background: #4aaaa5;
     width: 300px;
@@ -7,10 +7,11 @@
     font-family: Georgia, 'Times New Roman', Times, serif
 
 }
-#links{
+.navbar-nav{
     position: absolute;
     top: 60px;
     right: 0px;
+    font-size: 0.5em;
 }
 
 #header{
@@ -71,6 +72,10 @@ body{
     width:360px;
     height:250px;
     margin-bottom: 10px;
+}
+
+.img-fluid{
+
 }
 
 .image-label{
