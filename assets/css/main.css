@@ -1,0 +1,102 @@
+#main-title{
+    color: #ffffff;
+    background: #4aaaa5;
+    width: 300px;
+    text-align: center;
+    padding: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+#links{
+    position: absolute;
+    top: 60px;
+    right: 0px;
+}
+
+#header{
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    margin-bottom: 20px;
+}
+
+#header-content{
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+}
+
+#bio-image{
+    margin: 15px;
+}
+
+#body-title{
+    color: #4aaaa5;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.container{
+    width:945px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    line-height: 20pt;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 15px
+}
+
+body{
+    background-image: url("../images/paisley.png");
+    margin: auto;
+    background-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+#footer{
+    position: absolute;
+    width: 100%;
+    background-color: dimgray;
+    border-top: 6px solid #4aaaa5;
+    font-size: 10pt;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: #ffffff;
+    float:bottom;
+}
+
+
+.rounded{
+    width:360px;
+    height:250px;
+    margin-bottom: 10px;
+}
+
+.image-label{
+    position: absolute;
+    width: 360px;
+    background: #4aaaa5;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    top: 80%;
+    left: 50%;
+    transform: translate(-61.15%, -50%);
+}
+p{
+    margin: 15px;
+}
+
+.col-xs-4{
+    margin-left: 15px;
+}
+
+.btn{
+    color: #ffffff;
+    background: #4aaaa5;
+    width: 120px;
+    text-align: center;
+    padding: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
